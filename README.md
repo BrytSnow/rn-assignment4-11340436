@@ -12,5 +12,5 @@
 
 ### Screenshot:
 
-![Login Screen](./assets/loginScreen.jpg)
-![Home Screen](./assets/homeScreen.jpg)
+![Login Screen](./loginScreen.jpg)
+![Home Screen](./homeScreen.jpg)
