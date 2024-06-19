@@ -4,7 +4,7 @@
 
 ### Description:
 
-- The design was replicated accurately, including all essential elements.
+- The design was replicated accurately, including all the essential elements.
 - Eight distinct categories were included in the app.
 - A list of 15 tasks was integrated into the app.
 - The design closely matches the original mockup.
